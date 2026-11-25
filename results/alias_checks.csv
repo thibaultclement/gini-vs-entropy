@@ -1,0 +1,13 @@
+dataset,model,structure_equal,predictions_equal,probabilities_equal,max_abs_proba_delta
+Titanic,Arbre,True,True,True,0.0
+Titanic,Forêt,True,True,True,0.0
+Breast Cancer,Arbre,True,True,True,0.0
+Breast Cancer,Forêt,True,True,True,0.0
+Wine,Arbre,True,True,True,0.0
+Wine,Forêt,True,True,True,0.0
+Digits,Arbre,True,True,True,0.0
+Digits,Forêt,True,True,True,0.0
+Synth. équilibré,Arbre,True,True,True,0.0
+Synth. équilibré,Forêt,True,True,True,0.0
+Synth. déséquilibré,Arbre,True,True,True,0.0
+Synth. déséquilibré,Forêt,True,True,True,0.0

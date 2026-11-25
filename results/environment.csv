@@ -1,0 +1,2 @@
+python,sklearn,numpy,pandas,matplotlib,platform,cpu,seed,folds,repeats,n_trees
+3.13.5,1.8.0,2.3.5,2.2.3,3.10.8,Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39,AMD Ryzen 9 8940HX with Radeon Graphics,42,5,3,100
